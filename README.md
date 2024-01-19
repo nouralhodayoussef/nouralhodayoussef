@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello there! I'm currently pursuing my IT studies at LIU University. <br>👯 Alongside my studies, I actively engage in volunteering activities within my community.<br>🤝 I am a firm believer in continuous learning and personal growth.<br>🌱 Collaborating with like-minded individuals excites me.<br>💬 I enjoy exploring various interests outside of the IT realm such as art, literature, and sports.<br>📫 If you're interested in connecting, collaborating, or exchanging ideas, feel free to reach out!<br>Let's make a difference together!!! 🚀
+ Hello there! I'm currently pursuing my IT studies at LIU University. <br> Alongside my studies, I actively engage in volunteering activities within my community.<br> I am a firm believer in continuous learning and personal growth.<br> Collaborating with like-minded individuals excites me.<br> I enjoy exploring various interests outside of the IT realm such as art, literature, and sports.<br> If you're interested in connecting, collaborating, or exchanging ideas, feel free to reach out!<br>Let's make a difference together!
 
 
 ## 🌐 Socials:
