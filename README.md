@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Nour Alhoda Youssef
 
 I'm an aspiring **IT Specialist** and **Software Developer** with a passion for **mobile app development** and **web technologies**. Currently, I'm pursuing my **Information Technology** degree at **LIU University** with a **GPA of 4.0**. I'm always looking for opportunities to expand my skills and contribute to impactful projects.
