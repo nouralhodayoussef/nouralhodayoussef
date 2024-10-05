@@ -1,6 +1,22 @@
 # 💫 About Me:
- Hello there! I'm currently pursuing my IT studies at LIU University. <br> Alongside my studies, I actively engage in volunteering activities within my community.<br> I am a firm believer in continuous learning and personal growth.<br> Collaborating with like-minded individuals excites me.<br> I enjoy exploring various interests outside of the IT realm such as art, literature, and sports.<br> If you're interested in connecting, collaborating, or exchanging ideas, feel free to reach out!<br>Let's make a difference together!
+# 👋 Hi, I'm Nour Alhoda Youssef
 
+I'm an aspiring **IT Specialist** and **Software Developer** with a passion for **mobile app development** and **web technologies**. Currently, I'm pursuing my **Information Technology** degree at **LIU University** with a **GPA of 4.0**. I'm always looking for opportunities to expand my skills and contribute to impactful projects.
+
+### 💻 Tech Stack:
+- **Mobile Development**: Building responsive and dynamic apps using **Flutter**.
+- **Web Development**: Proficient in **front-end** (HTML, CSS, JavaScript, React) and **back-end** development with **PHP** and **Laravel**.
+- **Robotics**: Mentoring students and delivering workshops on **Arduino UNO-R3**.
+- **IT Support**: Providing technical assistance and troubleshooting across various platforms.
+
+### 🌱 What I'm working on:
+I'm engaged in **Robotics** and **IT Support** while constantly improving my knowledge in full-stack development. I am also exploring how **robotics** can help solve environmental problems, like **waste sorting and recycling**.
+
+### 🎓 A bit more about me:
+- **DAFI Scholar** and **STEPNAU, YLP10 Participant**, .
+- Always open to **collaborations** and new **tech challenges**!
+
+Feel free to check out my projects and connect with me!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021381282383&mibextid=LQQJ4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisnourr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/nour-alhoda-youssef-b87a2a279) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thissnourr) 
