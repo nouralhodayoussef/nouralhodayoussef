@@ -10,11 +10,12 @@ I'm an aspiring **IT Specialist** and **Software Developer** with a passion for 
 - **IT Support**: Providing technical assistance and troubleshooting across various platforms.
 
 ### 🌱 What I'm working on:
-I'm engaged in **Robotics** and **IT Support** while constantly improving my knowledge in full-stack development. I am also exploring how **robotics** can help solve environmental problems, like **waste sorting and recycling**.
+I'm engaged in **Robotics** and **IT Support** while constantly improving my knowledge in full-stack development. I am also exploring how **robotics** can help solve environmental problems.
 
 ### 🎓 A bit more about me:
 - **DAFI Scholar** and **STEPNAU, YLP10 Participant**, .
 - Always open to **collaborations** and new **tech challenges**!
+- A volunteer with **DSC, ICA Irshad, Leading Hands, iecd, Takaful**, and **Life Sculptors** NGOs.
 
 Feel free to check out my projects and connect with me!
 
